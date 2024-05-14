@@ -1,4 +1,9 @@
 # Analysis-of-Molecular-Docking-information
+
+```
+Series of python codes as notebooks that allows the analysis of distribution of molecular docking sets’ input and outpus. It includes several codes to understand the distribution of the dataset, it automatically computes functional group of each species of the groups and includes an analysis of protein-ligand interaction by third-party protein-ligand profiler (PLIP) tool to analysis the most-frequent interactions and distribution.
+```
+
 Analysis of a 80 ligands set chemical structure and their interactions with proteins' residues.
 
 I have make some ipynb to anlayse a set of 80 drugs and its interactions with target (with PLIP server). 
